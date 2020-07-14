@@ -7,7 +7,7 @@
 
 📍 Bangkok, Thailand
 
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=www.example.com" alt="Hits">
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=www.example.com" alt="Visitors">
 
 <!--
 **toptapznt/toptapznt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
