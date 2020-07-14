@@ -2,9 +2,7 @@
 
 <br>
 <p align="center">
-🎒 I’m currently studying at **Thammasat University**.
-
-
+🎒 I’m currently studying at **Thammasat University**.|
 📍 Bangkok, Thailand
 
 <br>
