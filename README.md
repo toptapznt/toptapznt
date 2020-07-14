@@ -3,7 +3,7 @@
 <br>
 <p align="center">
 🎒 I’m currently studying at **Thammasat University**.<br>
-📍 Bangkok, Thailand <br>
+📍 Bangkok, Thailand <br><br>
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=www.example.com" alt="Hits">
 <br>
 </p>
