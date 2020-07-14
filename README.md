@@ -2,6 +2,10 @@
 
 <br>
 
+![cat](https://github.com/toptapznt/toptapznt/blob/master/giphy.gif "Logo Title Text 1")
+
+<br>
+
 🎒 I’m currently studying at Thammasat University.
 
 
