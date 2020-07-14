@@ -1,9 +1,10 @@
+<p align="center">
 # Hi I'm Topz, Welcome to my github profile 🐯
 
 <br>
-<p align="center">
+
 🎒 I’m currently studying at **Thammasat University**.<br>
-📍 Bangkok, Thailand <br><br>
+📍 Bangkok, Thailand <br><br><br>
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=www.example.com" alt="Hits">
 <br>
 </p>
