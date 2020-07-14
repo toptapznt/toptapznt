@@ -9,13 +9,6 @@
 
 <img src="https://hitcounter.pythonanywhere.com/nocount/tag.svg?url=www.example.com" alt="Hits">
 
-let targetUrl = 'www.example.com';
-let query = '?url=' + encodeURIComponent(targetUrl);
-let xmlHttp = new XMLHttpRequest();
-xmlHttp.open('GET', 'https://hitcounter.pythonanywhere.com/nocount' + query, false);
-xmlHttp.send(null);
-count = xmlHttp.responseText;
-
 
 <!--
 **toptapznt/toptapznt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
