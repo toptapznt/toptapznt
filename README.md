@@ -7,8 +7,6 @@
 
 📍 Bangkok, Thailand
 
-<script src='http://example.com/ovc/counter.js'></script>
-
 
 <!--
 **toptapznt/toptapznt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
