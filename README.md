@@ -1,4 +1,4 @@
-# Hi I'm Top, Welcome to my github profile 🐯
+# Hi I'm Topz, Welcome to my github profile 🐯
 
 <br>
 
