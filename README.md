@@ -2,7 +2,7 @@
 
 <br>
 
-🎒 I’m currently studying at Thammasat University.
+🎒 I’m currently studying at **Thammasat University**.
 
 
 📍 Bangkok, Thailand
