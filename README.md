@@ -3,12 +3,10 @@
 <br>
 <p align="center">
 🎒 I’m currently studying at **Thammasat University**.<br>
-📍 Bangkok, Thailand
-
+📍 Bangkok, Thailand <br>
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=www.example.com" alt="Hits">
 <br>
 </p>
-
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=www.example.com" alt="Hits">
 
 <!--
 **toptapznt/toptapznt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
