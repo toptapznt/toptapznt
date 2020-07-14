@@ -7,7 +7,7 @@
 
 📍 Bangkok, Thailand
 
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
+<script src='http://example.com/ovc/counter.js'></script>
 
 
 <!--
