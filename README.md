@@ -1,13 +1,14 @@
 # Hi I'm Topz, Welcome to my github profile 🐯
 
 <br>
-
+<p align="center">
 🎒 I’m currently studying at **Thammasat University**.
 
 
 📍 Bangkok, Thailand
 
 <br>
+</p>
 
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=www.example.com" alt="Hits">
 
