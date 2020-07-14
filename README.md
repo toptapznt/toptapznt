@@ -11,9 +11,12 @@
  
 <br>
 
-<p align="center">
 ![pgm](https://github.com/toptapznt/toptapznt/blob/master/image_processing20191003-32373-1qew5cu.gif "Logo Title Text 1")
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/toptapznt/toptapznt/blob/master/image_processing20191003-32373-1qew5cu.gif">
 </p>
+
 <!--
 **toptapznt/toptapznt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
