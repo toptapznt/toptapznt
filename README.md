@@ -1,6 +1,6 @@
 <!--# Hi I'm Topz, Welcome to my github profile 🐯-->
 <br>
-<h1 align="center">Hi I'm Topz, Welcome to my github profile 🐯</h1>
+<h1 align="center">Hi I'm Topz, Welcome to my GitHub profile 🐯</h1>
 <br>
 <p align="center">
 🎓 I’m currently studying at Thammasat University.<br>
