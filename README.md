@@ -14,7 +14,7 @@
 <!--![pgm](https://github.com/toptapznt/toptapznt/blob/master/image_processing20191003-32373-1qew5cu.gif "Logo Title Text 1")-->
 
 <p align="center">
-  <img width="100%" height="50%" src="https://github.com/toptapznt/toptapznt/blob/master/image_processing20191003-32373-1qew5cu.gif">
+  <img width="60%" height="50%" src="https://github.com/toptapznt/toptapznt/blob/master/image_processing20191003-32373-1qew5cu.gif">
 </p>
 
 <!--
