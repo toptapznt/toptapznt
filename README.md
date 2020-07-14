@@ -1,6 +1,11 @@
-### Hi there 👋
+# Hi I'm Top, Welcome to my github profile 🐯
 
-🌱 I’m currently studying at Thammasat University 
+
+
+🎒 I’m currently studying at Thammasat University.
+
+📍 Bangkok, Thailand
+
 
 <!--
 **toptapznt/toptapznt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
