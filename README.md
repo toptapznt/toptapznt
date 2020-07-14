@@ -2,10 +2,6 @@
 
 <br>
 
-![cat](https://github.com/toptapznt/toptapznt/blob/master/giphy.gif "Logo Title Text 1")
-
-<br>
-
 🎒 I’m currently studying at Thammasat University.
 
 
@@ -14,6 +10,11 @@
 <br>
 
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=www.example.com" alt="Hits">
+
+<br>
+
+![cat](https://github.com/toptapznt/toptapznt/blob/master/giphy.gif "Logo Title Text 1")
+
 
 <!--
 **toptapznt/toptapznt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
